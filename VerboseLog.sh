@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #scripted by MorphTail and Kshitij Chitnis
 
 printf "  \e[95m__      __       _                   \e[34m _                 \e[0m\n"
